@@ -4,7 +4,7 @@ let a = 10
 let b = 3
 let sum = a + b
 let difference = a - b
-let product = a * b
+let product = a * b // asterisk (*) is used for multiplication
 let division = a / b
 let remainder = a % b // Modulus operator gives the remainder of the division
 
@@ -18,7 +18,6 @@ let numberTwo = '10'
 
 //console.log(number == numberTwo) // Loose equality (==) checks for value only, not type
 //console.log(number === numberTwo) // Strict equality (===) checks for value and type
-
 
 
 let z = 3

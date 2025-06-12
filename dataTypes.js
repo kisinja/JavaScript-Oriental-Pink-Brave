@@ -16,7 +16,7 @@ console.log(b)
 
 
 // Non Primitives => Mutable data types (can be changed after creation)
-let colors = ['red', 'green', 'blue'] // Array
+let colors = ['red', 'green', 'blue','yellow'] // Array
 let person = {
     name:"John Doe",
     age:30,
